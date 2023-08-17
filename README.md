@@ -62,6 +62,16 @@
       <li>https://www.npmjs.com/package/react-native-awesome-alerts</li>
     </ul>
   <br>
+  <li><b>ViewShot from @expo-google-fonts/inter</b></li>
+    <ul>
+      <li>https://www.npmjs.com/package/@expo-google-fonts/inter</li>
+    </ul>
+  <br>
+  <li><b>useFonts from @expo-font</b></li>
+    <ul>
+      <li>https://www.npmjs.com/package/expo-font</li>
+    </ul>
+  <br>
   <li><b>DatePicker from react-native-modern-datepicker</b></li>
     <ul>
       <li>https://www.npmjs.com/package/react-native-modern-datepicker</li>
